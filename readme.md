@@ -1,4 +1,4 @@
-# Arctiq Weather and Map
+# Arctiq Weather and Map.
 
 This app is designed to be used for various tesing purposes.
 
